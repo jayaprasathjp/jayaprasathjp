@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jayaprasath</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img width=400 align="right" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e4780o8zol6pafo35ivhufupefq29nrtl27ky2iz4kj&ep=v1_gifs_search&rid=200.webp&ct=g" alt="code" />
+<img width=260 align="right" style="border-radius:10px;" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e4780o8zol6pafo35ivhufupefq29nrtl27ky2iz4kj&ep=v1_gifs_search&rid=200.webp&ct=g" alt="code" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayaprasathjp&label=Profile%20views&color=0e75b6&style=flat" alt="jayaprasathjp" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jayaprasath_jps" target="blank"><img src="https://img.shields.io/twitter/follow/jayaprasath_jps?logo=twitter&style=for-the-badge" alt="jayaprasath_jps" /></a> </p>
